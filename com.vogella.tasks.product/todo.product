@@ -13,7 +13,7 @@
       </vmArgsMac>
    </launcherArgs>
 
-   <launcher>
+   <launcher name="TasksManager">
       <win useIco="false">
          <bmp/>
       </win>
@@ -26,7 +26,7 @@
    </plugins>
 
    <features>
-      <feature id="com.vogella.tasks.feature" installMode="root"/>
+      <feature id="com.vogella.tasks.feature"/>
       <feature id="org.eclipse.e4.rcp" installMode="root"/>
       <feature id="org.eclipse.emf.ecore" installMode="root"/>
       <feature id="org.eclipse.emf.common" installMode="root"/>
