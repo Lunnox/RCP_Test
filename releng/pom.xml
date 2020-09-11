@@ -1,21 +1,19 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vogella.tycho</groupId>
-	<artifactId>root</artifactId>
+	<artifactId>releng</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	
 	<parent>
 		<groupId>com.vogella.tycho</groupId>
-		<artifactId>config</artifactId>
+		<artifactId>root</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
-		<relativePath>./releng/com.vogella.tasks.configuration</relativePath>
+		<relativePath>..</relativePath>
 	</parent>
-
+	
 	<modules>
-		<module>bundles</module>
-		<module>features</module>
-		<module>releng</module>
+		<module>com.vogella.tasks.product</module>
 	</modules>
+
 </project>
 
