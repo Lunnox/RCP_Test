@@ -26,3 +26,7 @@ hs_err_pid*
 /.metadata/
 *.project
 
+bundles/com.vogella.contribute.parts/target/
+bundles/com.vogella.tasks.ui/target/
+features/com.vogella.tasks.feature/target/
+releng/com.vogella.tasks.product/target/
