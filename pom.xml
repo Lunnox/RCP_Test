@@ -79,7 +79,7 @@
  </build>
 	<modules>
 		<module>bundles</module>
-		<module>com.vogella.tasks.feature</module>
+		<module>features</module>
 		<module>com.vogella.tasks.product</module>
 	</modules>
 </project>
