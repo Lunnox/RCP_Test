@@ -30,3 +30,5 @@ bundles/com.vogella.contribute.parts/target/
 bundles/com.vogella.tasks.ui/target/
 features/com.vogella.tasks.feature/target/
 releng/com.vogella.tasks.product/target/
+tests/com.vogella.tycho.rcp.tests/target
+tests/com.vogella.tycho.rcp.it.tests/target
