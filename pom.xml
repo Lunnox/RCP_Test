@@ -78,9 +78,8 @@
  
  </build>
 	<modules>
-		<module>com.vogella.tasks.ui</module>
+		<module>bundles</module>
 		<module>com.vogella.tasks.feature</module>
 		<module>com.vogella.tasks.product</module>
-		<module>com.vogella.contribute.parts</module>
 	</modules>
 </project>
