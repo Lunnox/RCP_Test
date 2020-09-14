@@ -29,13 +29,6 @@
 			<extensions>true</extensions>
 		</plugin>
 	
-	<!--	<plugin>
-			<groupId>org.eclipse.tycho</groupId>
-			<artifactId>tycho-p2-director-plugin</artifactId>
-			<version>${tycho.version}</version>
-		</plugin>
-	
-		Enable the replacement of the SNAPSHOT version in the final product configuration-->
 		<plugin>
 				<groupId>org.eclipse.tycho</groupId>
 					<artifactId>tycho-packaging-plugin</artifactId>
