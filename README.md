@@ -1,4 +1,4 @@
-[Tutorial](https://www.vogella.com/tutorials/EclipseTycho/article.html)
+[Vogella Tutorial](https://www.vogella.com/tutorials/EclipseTycho/article.html)
 
 Eclipse-base project demonstrating working with Elipse RCP and maven tycho build system.
 The project is based on materials from Vogella
