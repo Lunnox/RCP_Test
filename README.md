@@ -8,3 +8,4 @@ The following is demonstrated:
   - Using target definition;
   - Working with Maven
   - Building a project using Maven Tycho
+  - Working with Jenkins
